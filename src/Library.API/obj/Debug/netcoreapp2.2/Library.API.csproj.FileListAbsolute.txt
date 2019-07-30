@@ -1,0 +1,14 @@
+C:\lessons\RESTful-API\src\Library.API\bin\Debug\netcoreapp2.2\Library.API.deps.json
+C:\lessons\RESTful-API\src\Library.API\bin\Debug\netcoreapp2.2\Library.API.runtimeconfig.json
+C:\lessons\RESTful-API\src\Library.API\bin\Debug\netcoreapp2.2\Library.API.runtimeconfig.dev.json
+C:\lessons\RESTful-API\src\Library.API\bin\Debug\netcoreapp2.2\Library.API.dll
+C:\lessons\RESTful-API\src\Library.API\bin\Debug\netcoreapp2.2\Library.API.pdb
+C:\lessons\RESTful-API\src\Library.API\obj\Debug\netcoreapp2.2\Library.API.csprojAssemblyReference.cache
+C:\lessons\RESTful-API\src\Library.API\obj\Debug\netcoreapp2.2\Library.API.csproj.CoreCompileInputs.cache
+C:\lessons\RESTful-API\src\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorAssemblyInfo.cache
+C:\lessons\RESTful-API\src\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorAssemblyInfo.cs
+C:\lessons\RESTful-API\src\Library.API\obj\Debug\netcoreapp2.2\Library.API.AssemblyInfoInputs.cache
+C:\lessons\RESTful-API\src\Library.API\obj\Debug\netcoreapp2.2\Library.API.AssemblyInfo.cs
+C:\lessons\RESTful-API\src\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorTargetAssemblyInfo.cache
+C:\lessons\RESTful-API\src\Library.API\obj\Debug\netcoreapp2.2\Library.API.dll
+C:\lessons\RESTful-API\src\Library.API\obj\Debug\netcoreapp2.2\Library.API.pdb
