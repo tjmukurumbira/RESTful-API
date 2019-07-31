@@ -56,5 +56,20 @@ namespace Library.API.Controllers
             return CreatedAtRoute("GetAuthor", new {id = authorToReturn.Id}, authorToReturn);
 
         } 
+        [HttpDelete("{id}")]
+        public IActionResult DeleteAuthor(Guid id)
+        {
+            var author = this.repository.GetAuthor(id);
+            if (author==null)
+             return NotFound();
+            this.repository.DeleteAuthor(author);
+             if (!this.repository.Save())
+            {
+             throw new Exception("A problem occured while handing your request");
+            }
+
+            return NoContent();
+
+        }
     }
 }
